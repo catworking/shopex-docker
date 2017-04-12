@@ -1,2 +1,6 @@
 .idea/
+bbc/3.0.35/web-root/*
+!bbc/3.0.35/web-root/.gitkeep
+ecstore/2.4.1/web-root/*
+!ecstore/2.4.1/web-root/.gitkeep
 
